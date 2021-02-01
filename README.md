@@ -1,7 +1,7 @@
 # user-directory-app
 This is a React Application which maintains a user directory and uses the standard **fetch** api to perform CRUD operations on data served by a **json-server**. The application implements features like **pagination**, **search** and more. 
 
-![presentin.vim ascii demo](app-demo.gif)
+![app-demo](app-demo.gif)
 
 npm install -g json-server
 
